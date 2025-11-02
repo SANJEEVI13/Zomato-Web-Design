@@ -1,8 +1,8 @@
 # Zomato Web Homepage Design
 🖋️ Overview
 
-This project is a Zomato-inspired web homepage created using Figma.
-The design replicates the clean, minimal, and user-focused interface of Zomato’s official website, with a focus on visual hierarchy, accessibility, and restaurant discovery experience.
+This project is a Zomato-inspired web homepage and product page clone created using Figma.
+It replicates the clean, minimal, and user-focused interface of Zomato’s official website, with a strong focus on visual hierarchy, accessibility, and an improved restaurant discovery experience.
 
 🧠 Features
 
